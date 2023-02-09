@@ -1,1 +1,0 @@
-a <- "chaîne de caractères"
